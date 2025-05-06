@@ -9,6 +9,10 @@
   In my free time, I enjoy playing video games, self-studying programming languages, and training in physical sports such as Kendo at <a href='https://ryutokai.fi'>Ryūtōkai</a>
 </p>
 
+<p align='center'>
+ Native Finnish speaker, fluent in English.</a>
+</p>
+
 ***
 <h1 align='center'>
  How to reach me
