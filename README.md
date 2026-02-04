@@ -6,7 +6,7 @@
   I am studying programming at <a href='https://www.gradia.fi'>Gradia Vocabulary School</a>
 </p>
 <p align='center'>
-  In my free time, I enjoy playing video games, self-studying programming languages, and training in physical sports such as Kendo at <a href='https://ryutokai.fi'>Ryūtōkai</a>
+  In my free time, I enjoy playing video games, self-studying programming languages, and sports such as swimming.
 </p>
 
 <p align='center'>
